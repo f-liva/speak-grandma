@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/cover.png" alt="Speak Grandma — complex things can be simple" width="720"></p>
+
 # speak-grandma 👵
 
 **Explain any technical system the way you'd tell your grandma** — one everyday
